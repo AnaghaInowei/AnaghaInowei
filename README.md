@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @AnaghaInowei
-- 👀 I’m interested in Front-end web development
-- 🌱 I’m currently learning HTML/CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me EMAIL: ezekieldavid150@gmail.com
-- WHATSAPP: 09079514121
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I'm Inowei David Anagha
+I'm a frontend developer
+my tech stack:
+-HTML
+-Css
+-JavaScript
+-React Js
+Tailwind Css
 
 <!---
 AnaghaInowei/AnaghaInowei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
